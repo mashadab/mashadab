@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning the mathematics and implementation of deep learning and inverse problems.
 - 👯 I’m looking to collaborate on exciting research projects.
-- 💬 Ask me about Fluid mechanics, applied mathematics, planetary science and high-order numerical methods.
+- 💬 Ask me about Fluid mechanics, Applied mathematics, Planetary science and High-order numerical methods.
 - 📫 How to reach me: Email at [mashadab@utexas.edu](mailto:mashadab@utexas.edu)
 - 😄 Pronouns: He / him
 - ⚡ Fun fact: I like to sing:
