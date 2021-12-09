@@ -1,6 +1,6 @@
 ### Hello and Welcome! 👋
 
- I am Afzal, PhD Candidate in Computational Science, Engineering and Mathematics at the [Oden Institute for Computational Engineering and Sciences](https://www.oden.utexas.edu/) at the University of Texas at Austin. My academic webpage is [https://mashadab.github.io/](https://mashadab.github.io/).
+ I am Afzal, a PhD Candidate in Computational Science, Engineering and Mathematics at the [Oden Institute for Computational Engineering and Sciences](https://www.oden.utexas.edu/) at the University of Texas at Austin. My academic webpage is [https://mashadab.github.io/](https://mashadab.github.io/).
 
 - 🔭 I am currently working on the following three prominent Planetary science problems by developing a Two-phase Percolation in a Viscously Compacting Matrix solver:
   1. What is the fate to glaciers due to climate warming?
