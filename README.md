@@ -1,4 +1,4 @@
-### Hello and Welcome 👋
+### Hello and Welcome! 👋
 
  I am Afzal, PhD Candidate in Computational Science, Engineering and Mathematics at the [Oden Institute for Computational Engineering and Sciences](https://www.oden.utexas.edu/) at the University of Texas at Austin. 
 
