@@ -12,4 +12,4 @@
 - 💬 Ask me about Fluid mechanics, applied mathematics, planetary science, high-order numerical methods.
 - 📫 How to reach me: Email at [mashadab@utexas.edu](mashadab@utexas.edu)
 - 😄 Pronouns: He / him
-- ⚡ Fun fact: I like to Sing ([Proof](https://www.youtube.com/watch?v=srQ95NoJWFk)).
+- ⚡ Fun fact: I like to sing ([Somebody’s me by Enrique](https://www.youtube.com/watch?v=srQ95NoJWFk)).
