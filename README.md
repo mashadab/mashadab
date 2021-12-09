@@ -7,7 +7,7 @@
   2. What happened to water on Mars 4 billion years ago?
   3. How did cores of planets form in our solar system?
 
-- 🌱 I’m currently learning deep learning and inverse problems.
+- 🌱 I’m currently learning mathematics and implementation of deep learning and inverse problems.
 - 👯 I’m looking to collaborate on exciting research projects.
 - 💬 Ask me about Fluid mechanics, applied mathematics, planetary science and high-order numerical methods.
 - 📫 How to reach me: Email at [mashadab@utexas.edu](mailto:mashadab@utexas.edu)
