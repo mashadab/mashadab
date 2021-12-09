@@ -1,6 +1,6 @@
-### Welcome 👋
+### Hello and Welcome 👋
 
-- 🔭 I am Afzal currently working on the following three prominent Earth and Planetary science problems by developing a Two-phase flow in a Viscously Compacting Matrix solver. More info can be found on my academic webpage [https://mashadab.github.io/](https://mashadab.github.io/).
+- 🔭 I am Afzal, PhD Candidate in Computational Science, Engineering and Mathematics at the [Oden Institute for Computational Engineering and Sciences](https://www.oden.utexas.edu/) at the University of Texas at Austin. I am currently working on the following three prominent Planetary science problems by developing a Two-phase percolation in a Viscously Compacting Matrix solver. More info can be found on my academic webpage [https://mashadab.github.io/](https://mashadab.github.io/).
   1. What happened to water on Mars 4 billion years ago?
   2. What is the fate to glaciers due to climate warming?
   3. How did cores of planets formed in our solar system?
@@ -10,4 +10,4 @@
 - 💬 Ask me about Fluid mechanics, applied mathematics, planetary science, high-order numerical methods.
 - 📫 How to reach me: Email at [mashadab@utexas.edu](mashadab@utexas.edu)
 - 😄 Pronouns: He / him
-- ⚡ Fun fact: I like to sing and dance.
+- ⚡ Fun fact: I remember Pie upto 50 places of decimal.
