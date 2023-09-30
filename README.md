@@ -2,7 +2,7 @@
 
  I am Afzal, a PhD Candidate in Computational Science, Engineering and Mathematics at the [Oden Institute for Computational Engineering and Sciences](https://www.oden.utexas.edu/) at the University of Texas at Austin. My academic webpage is [https://mashadab.github.io/](https://mashadab.github.io/).
 
-- 🔭 I am currently working on the three prominent Earth and Planetary Science problems that involve subsurface flow of water:
+- 🔭 I am currently working on the three prominent problems in Earth and Planetary Sciences:
   1. What is the fate of glaciers due to climate warming? Received NASA - JPL Graduate Fellowship and UT Institute for Geophysics Blue Sky Fellowship.
   2. What happened to water on Mars 4 billion years ago? Received Lunar and Planetary Institute Career Development Award.
   3. How can the icy moons of Saturn and Jupiter sustain life below their ice shells? Awarded NASA - JPL Graduate Fellowship and Student Research Award in Planetary Habitability by UT Austin.
