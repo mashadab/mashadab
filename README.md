@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on exciting research projects.
 - 💬 Ask me about Fluid mechanics, Applied mathematics, Planetary science and High-order numerical methods.
 - 💬 I support open science, education, and scholarship. 
-- 📫 How to reach me: Email at [mashadab@utexas.edu](mailto:mashadab@utexas.edu)
+- 📫 How to reach me: Email at [mashadab@princeton.edu](mailto:mashadab@princeton.edu)
 - 😄 Pronouns: He / him
 - ⚡ Fun fact: I like to sing-
   1. [Somebody’s me by Enrique Iglesias](https://www.youtube.com/watch?v=srQ95NoJWFk) 
